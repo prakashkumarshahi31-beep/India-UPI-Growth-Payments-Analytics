@@ -24,6 +24,8 @@ The project uses SQL for data analysis, a cleaned dataset for analytical work, a
 - **CSV** — Dataset storage
 - **Data Cleaning** — Missing-value and data-quality checks
 - **Interactive Dashboard** — Data visualization
+- <img width="1317" height="740" alt="Screenshot 2026-10-16 195731" src="https://github.com/user-attachments/assets/b6f9a07f-6d7e-4f6d-babc-5d1f65586982" />
+
 - **GitHub** — Project documentation and version control
 
 ## 📂 Project Structure
