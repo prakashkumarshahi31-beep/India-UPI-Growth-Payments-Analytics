@@ -36,6 +36,6 @@ India-UPI-Growth-Payments-Analytics/
 ├── README.md
 ├── upi_monthly_cleaned.csv
 ├── upi_analytics_queries.sql
-├── upi_interactive_dashboard.html
+├── upi_interactive_dashboard
 ├── business_insights.md
-└── analysis_summary.json
+
