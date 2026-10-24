@@ -1,0 +1,26 @@
+##  Key Business Insights
+
+1. Growth in Bank Participation : The number of banks live on
+   UPI increased from 21 in April 2016 to 688 in August 2025.
+
+2. Record Transaction Volume : August 2025 recorded approximately
+   20,008.31 million UPI transactions, the highest volume in the dataset.
+
+3. Peak Transaction Value : May 2025 recorded the highest monthly
+   transaction value at approximately ₹2,514,297.01 crore.
+
+4. Different Growth Patterns : In August 2025, transaction volume
+   increased by 2.78% month over month, while transaction value
+   declined by 0.92%.
+
+5. Average Transaction Value : The average transaction value
+   was approximately ₹1,242.22 in August 2025.
+
+6. Long-Term Trend Analysis : Monthly data from April 2016 to
+   August 2025 supports the analysis of transaction growth,
+   bank participation, and payment-value trends.
+
+7. Data Quality : The dataset contains no duplicate monthly
+   records, but missing values in average transaction and growth
+   metrics require careful handling.
+
